@@ -34,6 +34,7 @@ External software/libraries -- included in the 'extern' directory:
 Data
 -----
 Download input car videos from [here](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreiburgStaticCars52/freiburg_static_car_vids.tar.gz) -- videos of 52 static cars, covering almost the whole 360 degrees around the car. 
+Download resulting dataset from [here](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreiburgStaticCars52/freiburg_static_cars_52_v1.1.tar.gz) -- viewpoint- and bounding box-annotated car images. 
 
 
 (Non-)Deterministic Behaviour
