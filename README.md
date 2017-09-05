@@ -31,6 +31,10 @@ External software/libraries -- included in the 'extern' directory:
    * ransac (http://www.peterkovesi.com/matlabfns/index.html)  
 	only these files are necessary: ransac.m fitplane.m ransacfitplane.m iscolinear.m
 
+Data
+-----
+Download input car videos from [here](https://lmb.informatik.uni-freiburg.de/resources/datasets/FreiburgStaticCars52/freiburg_static_car_vids.tar.gz) -- videos of 52 static cars, covering almost the whole 360 degrees around the car. 
+
 
 (Non-)Deterministic Behaviour
 ------------------------------
