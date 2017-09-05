@@ -23,8 +23,8 @@ Installation Requirements
 --------------------------
 
 External software/libraries -- not included:
-	* VisualSFM (http://ccwu.me/vsfm/) + SiftGPU (http://www.cs.unc.edu/~ccwu/siftgpu/)
-	* SSD (http://mesh.brown.edu/ssd/)
+   * VisualSFM (http://ccwu.me/vsfm/) + SiftGPU (http://www.cs.unc.edu/~ccwu/siftgpu/)
+   * SSD (http://mesh.brown.edu/ssd/)
 
 External software/libraries -- included in the 'extern' directory:
 	* Compute mesh normals (http://de.mathworks.com/matlabcentral/fileexchange/29585-compute-mesh-normals)
