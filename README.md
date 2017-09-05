@@ -40,5 +40,6 @@ across multiple runs.
 The closest you can get to a deterministic behaviour is by:
 1. setting 'settings.deterministic = 1' in the file setup.m
 2. setting 'param_deterministic_behaviour 1' in the file [VisualSFM Path]/bin/nv.ini
+
 However, the results can still vary noticeably -- unless you use another SFM package, where you can control it's behaviour completely.
 
