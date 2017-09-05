@@ -2,6 +2,7 @@ Code for the paper "Unsupervised Generation of a Viewpoint Annotated Car Dataset
 
 Terms of use
 ------------
+
 The code is provided for research purposes only. Any commercial
 use is prohibited. If you are interested in a commercial use, please 
 contact the copyright holder. 
@@ -33,6 +34,7 @@ External software/libraries -- included in the 'extern' directory:
 
 (Non-)Deterministic Behaviour
 ------------------------------
+
 Some external components show random behaviour, which result in non-deterministic results that cannot be exactly reproduced 
 across multiple runs.
 The closest you can get to a deterministic behaviour is by:
